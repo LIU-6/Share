@@ -1,0 +1,12 @@
+{
+    "update.mode": "manual",
+    "extensions.autoUpdate": false,
+    "window.titleBarStyle": "custom",
+    "editor.mouseWheelZoom": true,
+    "files.autoGuessEncoding": true,
+    "files.eol": "\n",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.rightClickBehavior": "default",
+    "terminal.integrated.confirmOnExit": "always",
+    "terminal.integrated.cursorBlinking": true,
+}
